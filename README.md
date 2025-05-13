@@ -3,6 +3,22 @@
 
 An AI-powered assistant that provides GST details based on HSN codes using Google Gemini through the Agent Development Kit (ADK). This tool reads HSN data from an Excel file and responds with GST rates and product descriptions.
 
+
+## 📚 Table of Contents
+
+- [HSN Lookup Agent]
+- [Features]
+- [Project Structure]
+- [Installation]
+- [Getting Gemini API Key]
+- [Environment Setup]
+- [Code Overview]
+  - [__init__.py]
+  - [agent.py]
+- [Running the Agent]
+- [Testing]
+- [Dependencies]
+
 ---
 
 ## 🚀 Features
@@ -126,3 +142,20 @@ Try asking:
 - `openpyxl` — For `.xlsx` file support
 
 ---
+
+## 🤝 Contributing
+
+Feel free to fork this project and submit pull requests. Open an issue to discuss major changes.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🙏 Acknowledgments
+
+- Google for the Gemini ADK and MakerSuite
+- Python open-source community
