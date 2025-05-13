@@ -6,18 +6,18 @@ An AI-powered assistant that provides GST details based on HSN codes using Googl
 
 ## 📚 Table of Contents
 
-- [HSN Lookup Agent]
-- [Features]
-- [Project Structure]
-- [Installation]
-- [Getting Gemini API Key]
-- [Environment Setup]
-- [Code Overview]
-  - [__init__.py]
-  - [agent.py]
-- [Running the Agent]
-- [Testing]
-- [Dependencies]
+- [HSN Lookup Agent](#hsn-lookup-agent)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Getting Gemini API Key](#-getting-gemini-api-key)
+- [Environment Setup](#-environment-setup)
+- [Code Overview](#-code-overview)
+  - [__init__.py](#initpy)
+  - [agent.py](#agentpy)
+- [Running the Agent](#-running-the-agent)
+- [Testing](#-testing)
+- [Dependencies](#-dependencies)
 
 ---
 
